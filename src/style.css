@@ -1,5 +1,25 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: blue;
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body {
+    
+    
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100;
+    margin: 0;
+}
+.container {
+    background-color: white;
+    padding: 20px;
+}
+
+#excuse {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
 }
